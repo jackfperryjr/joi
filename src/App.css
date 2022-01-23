@@ -32,7 +32,7 @@
 hr {
   margin: 30px auto;
   width: 70%;
-  max-width: 900px;
+  max-width: 850px;
 }
 
 p {
@@ -62,7 +62,7 @@ h1 > a {
 @media (min-width: 1001px) {
   .content-container {
     width: 70%;
-    max-width: 900px
+    max-width: 850px
   }  
 
   footer {
