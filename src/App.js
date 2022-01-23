@@ -6,8 +6,8 @@ function App() {
       <header>
         <div className="header-container"></div>
       </header>
-      <div className="logo-container"></div>
-      <h1>Come explore the states of Joi</h1>
+      <a href="https://opensea.io/collection/states-of-joi" target="_blank"><div className="logo-container"></div></a>
+      <h1><a href="https://opensea.io/collection/states-of-joi" target="_blank">Come explore the states of Joi</a></h1>
       <hr/>
       <p>Joi is a character that I started in 1998 with the intention of doing something with it. Well, that never happened.</p>
       <br/><p>Until recently.</p><br/>

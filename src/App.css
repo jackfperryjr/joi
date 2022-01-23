@@ -41,3 +41,7 @@ footer {
   left: 0;
   right: 0;
 }
+
+h1 > a {
+  color: #ffffff;
+}
