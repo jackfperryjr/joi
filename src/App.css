@@ -23,9 +23,19 @@
   margin: -40px auto 30px auto;
 }
 
-hr, p {
-  margin: 10px auto 0 auto;
+.content-container {
+  margin: 0 auto;
+  width: 90%;
+}
+
+hr {
+  margin: 30px auto;
   width: 70%;
+  max-width: 900px;
+}
+
+p {
+  margin: 10px auto 0 auto;
 }
 
 a {
@@ -44,4 +54,11 @@ footer {
 
 h1 > a {
   color: #ffffff;
+}
+
+@media (min-width: 1001px) {
+  .content-container {
+    width: 70%;
+    max-width: 900px
+  }  
 }
