@@ -1,0 +1,43 @@
+.app {
+  text-align: center;
+}
+
+.header-container {
+  height: 300px;
+  width: 100%;
+  background-image: url("background.gif");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 40% 60%;
+}
+
+.logo-container {
+  height: 130px;
+  width: 130px;
+  background-image: url("joi0154.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  border-radius: 50%;
+  border: 4px solid #000000;
+  margin: -40px auto 30px auto;
+}
+
+hr, p {
+  margin: 10px auto 0 auto;
+  width: 70%;
+}
+
+a {
+  color: #42A0FF;
+  text-decoration: none;
+}
+
+footer {
+  font-size: 12px;
+  position: relative;
+  bottom: 0;
+  margin: 5% auto 1% auto;
+  left: 0;
+  right: 0;
+}
