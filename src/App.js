@@ -10,7 +10,7 @@ const useFetch = url => {
     setClicky(clicky)
   }
 
-  useEffect(() => { fetchData() }, [url, fetchData])
+  useEffect(() => { fetchData() }, [url]) // eslint-disable-line react-hooks/exhaustive-deps
   return [clicky, fetchData]
 }
 
