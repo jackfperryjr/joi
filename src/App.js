@@ -10,7 +10,7 @@ const useFetch = url => {
     setClicky(clicky)
   }
 
-  useEffect(() => { fetchData() }, [url])
+  useEffect(() => { fetchData() }, [url, fetchData])
   return [clicky, fetchData]
 }
 
