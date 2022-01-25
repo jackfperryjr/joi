@@ -59,6 +59,27 @@ h1 > a {
   color: #ffffff;
 }
 
+.no-state-yet {
+  text-align: center;
+  margin: 10% auto 0 auto;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.reaction {
+  padding: 0 10px;
+  font-size: 16px;
+  color: #FEAA3A;
+}
+
+.reaction-count {
+  font-weight: 200;
+  padding: 0 3px;
+  color: #ffffff;
+}
+
 @media (min-width: 1001px) {
   .content-container {
     width: 70%;
