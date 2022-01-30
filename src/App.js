@@ -52,7 +52,7 @@ function App() {
           <br/>
           <p>Joi didn't have a name until I started this project. The concept for the character began with her not having a face. You see, Joi is from another planet and has the ability to change the appearance of her face, hair, and skin. Over her lifetime, she has taken on different states of being as her travels expose her to different emotions in different environments, even in different galaxies.</p>
           <br/>
-          <p>Joi's collection is ever-evolving. Currently there are 306 unique tokens, and I have dozens more in the works that are not yet minted. So, go <a href="https://opensea.io/collection/states-of-joi" target="_blank" rel="noreferrer">explore the states of Joi</a> and check back often for more!</p>
+          <p>Joi's collection is nearing an end at 333 tokens. Currently there are 327 unique tokens, and I only have 6 more in the works that are not yet minted. So, go <a href="https://opensea.io/collection/states-of-joi" target="_blank" rel="noreferrer">explore the states of Joi</a> and check back often for more!</p>
           <br/>
           <p>You can also follow the project on <a href="https://twitter.com" target="_blank" rel="noreferrer">Twitter</a> <a href="https://twitter.com/statesofjoi" target="_blank" rel="noreferrer">@statesofjoi</a>.</p>
         </div>
